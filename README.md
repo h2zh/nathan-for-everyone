@@ -31,3 +31,7 @@ scripts/package.sh            # ZIP for claude.ai (Duet) and ChatGPT (Dots)
 ```
 
 Then follow [`platforms/README.md`](platforms/README.md) for each platform's upload and schedule steps.
+
+## License
+
+[MIT](LICENSE) for the original text and scripts in this repo. Short quotes from the shows, interviews and criticism in the research notes belong to their owners. This is an unofficial impression, not affiliated with or endorsed by Nathan Fielder or his networks. Built with [Nuwa](https://github.com/alchaincyf/nuwa-skill) (MIT).
